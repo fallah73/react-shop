@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React-Shop
+
+### `npm run dev`
+Runs the app and json-server.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+If necessary, open [http://localhost:3004/products](http://localhost:3004/products) to view json-server.
+
+![shop](https://user-images.githubusercontent.com/88624244/165550058-bca36621-0efd-45c5-ae8d-296b1d34189c.PNG)
+
+#
+
+
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm run dev`
+
  
 ### `npm start`
 
