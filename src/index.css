@@ -1,0 +1,22 @@
+ 
+@font-face {
+	font-family: "Vazir";
+	font-style: normal;
+	font-weight: normal;
+	src: url('./assets/fonts/Vazir.ttf');
+	src: url('./assets/fonts/Vazir-Medium-FD-WOL.ttf');
+ 
+}
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  direction: rtl;
+  background-image: linear-gradient(#eeeff1 0% , #fff  20%);
+  font-family: "Vazir";
+}
+
+a{
+  text-decoration: none;
+}

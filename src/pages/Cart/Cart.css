@@ -1,0 +1,45 @@
+.cart-product-name {
+    font-size: 20px;
+    color: #c003c3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.cart-product-price {
+    font-size: 18px;
+    color: rgb(56, 56, 56);
+
+}
+
+.cart-product-price span {
+    font-size: 14px;
+}
+
+.cart-product-btn-del button,
+.cart-total button {
+    outline: none;
+    box-shadow: none !important;
+    border: none;
+}
+
+.cart-product-btn-del button {
+    font-size: 17px;
+    background-color: #fff;
+    color: #ef4056;
+}
+
+.cart-total {
+    box-shadow: 0 0 10px rgb(31 31 31 / 38%);
+    border-radius: 10px !important;
+}
+
+.cart-total div {
+    border: none !important;
+}
+
+.cart-total button {
+    font-size: 17px;
+    background-color: #fff;
+    background-color: #4c1273;
+}

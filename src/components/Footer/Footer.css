@@ -1,0 +1,10 @@
+.footer {
+
+    height: 5vh;
+}
+
+@media (max-width:576px) {
+    .footer {
+        height: auto;
+    }
+}
